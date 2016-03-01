@@ -1,0 +1,14 @@
+
+
+true/0
+
+                          poor/1      poorer_than/2
+
+
+false/0
+funnier_than_2/2 
+                                          funny1/1
+
+  LEFT_middle_RIGHT/3
+
+

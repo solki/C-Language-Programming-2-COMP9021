@@ -1,0 +1,22 @@
+
+
+
+    true
+
+poor(Imelda_N)   poor(John)        poor(gina_smith)
+
+               funny1(Imelda_N)   poorer_than(PHILIP,Imelda_N)
+
+     funnier_than_2(gina,PHILIP)                funny1(paul)    LEFT_middle_RIGHT(Imelda_N,peter2,LAURA_34_NOTI)
+   
+
+      poorer_than(gina_smith,PHILIP)
+
+     funnier_than_2(PHILIP,Imelda_N)    LEFT_middle_RIGHT(paul,Imelda_N,peter2)
+
+    LEFT_middle_RIGHT(John,John,John)
+                                         funnier_than_2(peter2,paul)
+
+
+
+     
